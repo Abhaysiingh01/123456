@@ -1,3 +1,2 @@
-mechanize
+Flask
 requests
-beautifulsoup4
